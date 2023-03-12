@@ -1,4 +1,7 @@
 a = int(input())
 b = int(input())
-c = 0
+c = 2
 print((a + b) / 2)
+if c > 0:
+  print("dgd")
+  
